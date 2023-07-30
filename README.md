@@ -19,7 +19,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 
 
 <br><br>
-### Follow my in my social medias!
+## 📱 Follow my in my social medias!
  
 <div style="display: columns"> 
 
