@@ -37,8 +37,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 <p align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-xavier&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
-<
-          
+ 
 
 
 </div>
