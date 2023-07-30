@@ -1,3 +1,6 @@
+
+![Black Digital Marketing Specialist Linkedin Banner](https://github.com/paulo-xavier/paulo-xavier/assets/133855530/3ff7a126-0435-49cd-8f9d-de861714f52a)
+
 ## Welcome to my profile! 😁
 
  <div>
