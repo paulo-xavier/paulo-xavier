@@ -5,7 +5,7 @@
 ## 👋 About me 
 
 <p> Hello everyone! <br> I'm Paulo Xavier, an 18-year-old from Brazil! I'm passionate about programming and the IT field in general. Currently, I'm studying System Development and frequently working on front-end projects.
-I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn new technologies to create engaging user interfaces. I also have knowledges in back-end. Let's connect and share our love for tech and development! 😄🚀 </p>
+I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn new technologies to create engaging user interfaces. I also have knowledges in back-end and database. Let's connect and share our love for tech and development! 😄🚀 </p>
 
 
 <br><br>
