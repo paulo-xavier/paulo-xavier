@@ -36,7 +36,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 <br><br>
 
  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-xavier&hide_progress=false" alt="Top Languages"/>
+  <img height="280em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-xavier&hide_progress=false" alt="Top Languages"/>
 </p>
 
 
