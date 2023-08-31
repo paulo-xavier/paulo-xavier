@@ -30,13 +30,13 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 <br><br>
 ## 📱 Follow me in my social medias!
  
-<div style="display: columns"> 
+<div style="display: inline-block"> 
 
-  <a href="https://www.instagram.com/oxavierpaulo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <nav><a href="https://www.instagram.com/oxavierpaulo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></nav> &nbsp;&nbsp;
 
-  <a href = "xavierpaulo796@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <nav> <a href = "xavierpaulo796@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </nav> &nbsp;&nbsp;
  
-  <a href="https://www.linkedin.com/in/paulo-roberto-xavier-da-silva-15bb6924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <nav><a href="https://www.linkedin.com/in/paulo-roberto-xavier-da-silva-15bb6924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></nav> &nbsp;&nbsp;
  
 </div>
 
