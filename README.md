@@ -15,6 +15,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
   <img align="center" alt="HTML" height="30" width="40" title = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="CSS" height="30" width="40" title ="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="TypeScript" height="30" width="40" title = "Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
+  <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
    <img align = "center" alt = "MySQL" height = "40" widht="40" title = "MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
 </div>
 
@@ -24,6 +25,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
   <img align = "center" alt = "Figma" height = "30" width = "40" title = "Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
   <img align = "center" alt = "Bash" height = "40" width = "40" title = "Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;
   <img align = "center" alt = "VSCode" height = "35" width = "40" title = "VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"" /> &nbsp;
+  <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 
