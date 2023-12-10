@@ -25,7 +25,9 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
   <img align = "center" alt = "Figma" height = "30" width = "40" title = "Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
   <img align = "center" alt = "Bash" height = "40" width = "40" title = "Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;
   <img align = "center" alt = "VSCode" height = "35" width = "40" title = "VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"" /> &nbsp;
-  <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
+  <img align="center" alt="canva" height="30" width="40" title="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+          
 </div>
 
 
