@@ -40,7 +40,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 
   <nav> <a href = "mailto: xavierpaulo796@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </nav> &nbsp;&nbsp;
  
-  <nav><a href="https://www.linkedin.com/in/paulo-roberto-xavier-da-silva-15bb6924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></nav> &nbsp;&nbsp;
+  <nav><a href="https://www.linkedin.com/in/paulo-xavier-15bb6924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></nav> &nbsp;&nbsp;
  
 </div>
 
