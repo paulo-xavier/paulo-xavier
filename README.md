@@ -18,16 +18,17 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
   <img align="center" alt="TypeScript" height="30" width="40" title = "Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
   <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
    <img align = "center" alt = "MySQL" height = "40" widht="40" title = "MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
+   <img align = "center" alt = "SQLITE" height = "40" widht="40" title = "SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> &nbsp;
 </div>
 
 <br> <br>
 ## Tools 🛠️   
 <div style = "display: inline_block"> <br> 
   <img align = "center" alt = "Figma" height = "30" width = "40" title = "Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
-  <img align = "center" alt = "Bash" height = "40" width = "40" title = "Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;
   <img align = "center" alt = "VSCode" height = "35" width = "40" title = "VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"" /> &nbsp;
-  <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
-  <img align="center" alt="canva" height="30" width="40" title="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
+  <img align="center" alt="canva" height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="GIMP" height="30" width="40" title="GIMP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
           
 </div>
 
