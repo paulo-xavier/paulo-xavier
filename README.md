@@ -9,17 +9,26 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 
 
 <br><br>
-## Languages 💻
+## Front-end 🖼️ 
 <div style="display: inline_block"><br>
   <img align="center"  alt="Js" height="30" width="40" title = "Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
   <img align="center" alt="HTML" height="30" width="40" title = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="CSS" height="30" width="40" title ="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;  
-  <img align="center" alt="TypeScript" height="30" width="40" title = "Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
-  <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
+</div>
+
+<br><br>
+
+## Back-end 🛠
+<div style="display: inline_block"> <br>
+   <img align="center" alt="TypeScript" height="30" width="40" title = "Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
+   <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
    <img align = "center" alt = "MySQL" height = "40" widht="40" title = "MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;
    <img align = "center" alt = "SQLITE" height = "40" widht="40" title = "SQLITE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> &nbsp;
 </div>
+
+
+
 
 <br> <br>
 ## Tools 🛠️   
@@ -29,12 +38,11 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
   <img align="center" alt="git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
   <img align="center" alt="canva" height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="GIMP" height="30" width="40" title="GIMP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-          
 </div>
 
 
 <br><br>
-## 📱 Follow me in my social medias!
+## 📱 Follow me on my social medias!
  
 <div style="display: inline-block"> 
 
@@ -55,9 +63,6 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 </p>
 
 
-
-
-</div>
  
  <br>
  
