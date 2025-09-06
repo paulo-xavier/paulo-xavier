@@ -5,8 +5,14 @@
 ## 👋 About me 
 
 <p> Hello everyone! <br> I'm Paulo Xavier, an 18-year-old from Brazil! I'm passionate about programming and the IT field in general. Currently, I'm studying System Development and frequently working on front-end projects.
-I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn new technologies to create engaging user interfaces. I also have knowledges in back-end and database. Let's connect and share our love for tech and development! 😄🚀 </p>
+I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn new technologies to create engaging user interfaces. I also have knowledges in back-end and database. Let's connect and share our love for tech and development! 😄🚀 
+<br><br>
 
+<p align="center">
+  <img width="300" height="300" alt="ChatGPT Image Aug 24, 2025, 01_08_43 AM(1)" src="https://github.com/user-attachments/assets/d527824e-5b6e-4270-bbc0-9c8ebacb30b2" />
+</p>
+
+</p>
 
 <br><br>
 ## Front-end 🖼️ 
