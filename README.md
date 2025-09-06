@@ -9,7 +9,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm always excited to learn 
 <br><br>
 
 <p align="center">
-  <img width="300" height="300" alt="ChatGPT Image Aug 24, 2025, 01_08_43 AM(1)" src="https://github.com/user-attachments/assets/d527824e-5b6e-4270-bbc0-9c8ebacb30b2" />
+  <img width="300" height="300" src="https://github.com/user-attachments/assets/6cd6cc77-2bb2-44e1-bc0d-9918f27d1efa" />
 </p>
 
 </p>
