@@ -53,5 +53,3 @@
 <p align="center">
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBtMWE3aHpuN2JvNTl2NjEydjE2NTBzeXpxenkwM3htY2dyZTZ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSmYjCygSR6xZeEUon/giphy.gif" height="100" >
 </p>
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-xavier&show_icons=true&theme=radical)
