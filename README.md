@@ -48,10 +48,8 @@
 
 <br><br>
 
-<p> <em> I am currently learning C#... </em> </p>
+<p> <em> I am currently learning Java... </em> </p>
 
 <p align="center">
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBtMWE3aHpuN2JvNTl2NjEydjE2NTBzeXpxenkwM3htY2dyZTZ4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSmYjCygSR6xZeEUon/giphy.gif" height="100" >
 </p>
- 
-  
