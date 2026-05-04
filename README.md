@@ -22,28 +22,29 @@
 <h3 align="left"> Front-end: </h3>
 
 <p align="left">
-  <img align="center" alt="Js" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-  <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="left" alt="Js" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
+  <img align="left" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+  <img align="left" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+  <img align="left" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </p>
 
 <h3 align="left"> Backend: </h3>
 
 <p align="left">
-  <img align="center" alt="TypeScript" height="30" width="40" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
-  <img align="center" alt="MySQL" height="40" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> &nbsp;
-  <img align="center" alt="SQLite" height="40" width="40" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="left" alt="TypeScript" height="30" width="40" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
+  <img align="left" alt="MySQL" height="40" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> &nbsp;
+  <img align="left" alt="SQLite" height="40" width="40" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="left" alt="Java" height="40" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </p>
 
 <h3 align="left"> Tools </h3>
 
 <p align="left">
-  <img align="center" alt="Figma" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> &nbsp;
-  <img align="center" alt="VSCode" height="35" width="40" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
-  <img align="center" alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
-  <img align="center" alt="Canva" height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> &nbsp;
-  <img align="center" alt="GIMP" height="30" width="40" title="GIMP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+  <img align="left" alt="Figma" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> &nbsp;
+  <img align="left" alt="VSCode" height="35" width="40" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
+  <img align="left" alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
+  <img align="left" alt="Canva" height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> &nbsp;
+  <img align="left" alt="GIMP" height="30" width="40" title="GIMP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
 </p>
 
 <br><br>
